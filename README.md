@@ -11,8 +11,8 @@
 I am a final-year Artificial Intelligence undergraduate at FAST NUCES and an AI Engineer. I specialize in building real-world, production-style applications—ranging from advanced computer vision models to agentic RAG workflows and automated text-processing pipelines. 
 
 * 🔭 **Current Focus:** Optimizing edge AI deployment for real-time industrial automation.
-* 🛠️ **Core Expertise:** Building robust backend APIs with FastAPI and integrating intelligent local LLM orchestrations[cite: 1].
-* 🌱 **Always Learning:** Deepening my knowledge in scalable AI infrastructures, ETL data pipelines, and advanced deep learning frameworks[cite: 1].
+* 🛠️ **Core Expertise:** Building robust backend APIs with FastAPI and integrating intelligent local LLM orchestrations.
+* 🌱 **Always Learning:** Deepening my knowledge in scalable AI infrastructures, ETL data pipelines, and advanced deep learning frameworks.
 
 ---
 
