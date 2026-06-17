@@ -33,9 +33,11 @@ I am a final-year Artificial Intelligence undergraduate at FAST NUCES and an AI 
 
 
 
+
 ## 🤝 Let's Connect!
 <p align="center">
   <a href="mailto:kashifmayar7@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/kashifmayar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/muhammad-kashif-867631224/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://kashifmayar.github.io/portfolio/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 </p>
