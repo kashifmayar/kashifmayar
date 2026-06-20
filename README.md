@@ -8,7 +8,8 @@
 ---
 
 # 💫 About Me:
-* 🔭 **I’m currently working on:** Building AI-powered applications using LLMs, RAG pipelines, Agentic AI, and Computer Vision.<br>* 👯 **I’m looking to collaborate on:** Open-source AI projects, GenAI tools, multi-agent systems, and real-world computer vision solutions.<br>* 🤝 **I’m looking for help with:** Scaling AI products, MLOps, and deploying production-ready AI systems.<br>* 🌱 **I’m currently learning:** Advanced LLM orchestration, AI agents, multimodal AI, and cloud-native AI deployment.<br>* 💬 **Ask me about:** Python, YOLO, RAG, LangChain, LLMs, Computer Vision, AI chatbots, and AI application development.<br>* ⚡ **Fun fact:** I built my final-year AI project single-handedly and enjoy turning complex AI ideas into practical products.<br><br>
+* 🔭 **I’m currently working on:** Building AI-powered applications using LLMs, RAG pipelines, Agentic AI, and Computer Vision.<br>* 👯 **I’m looking to collaborate on:** Open-source AI projects, GenAI tools, multi-agent systems, and real-world computer vision solutions.<br>* 🤝 **I’m looking for help with:** Scaling AI products, MLOps, and deploying production-ready AI systems.<br>* 🌱 **I’m currently learning:** Advanced LLM orchestration, AI agents, multimodal AI, and cloud-native AI deployment.<br>* 💬 **Ask me about:** Python, YOLO, RAG, LangChain, LLMs, Computer Vision, AI chatbots, and AI application development.<br>* ⚡ **Fun fact:** I love going to sleep while Claude Code and Cursor keep coding. Waking up to completed features feels like getting overnight commits from invisible teammates. 😄
+<br><br>
 
 
 ## 🌐 Socials:
